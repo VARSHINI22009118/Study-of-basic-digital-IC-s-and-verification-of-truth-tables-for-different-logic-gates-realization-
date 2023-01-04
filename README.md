@@ -1,4 +1,4 @@
-## AIM:  
+ ## AIM:  
 
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -82,5 +82,4 @@ Logic symbol & Truthtable:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.  
 
 Developed by: VARSHINI S A  
-
 Reference Number: 22009118
